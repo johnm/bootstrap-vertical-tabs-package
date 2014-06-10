@@ -1,0 +1,15 @@
+{
+  "meteor": {},
+  "dependencies": {
+    "basePackages": {
+      "bootstrap-vertical-tabs-package": {
+        "path": "."
+      }
+    },
+    "packages": {
+      "bootstrap-vertical-tabs-package": {
+        "path": "."
+      }
+    }
+  }
+}

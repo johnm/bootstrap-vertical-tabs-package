@@ -1,0 +1,3 @@
+[submodule "bootstrap-vertical-tabs"]
+	path = bootstrap-vertical-tabs
+	url = git@github.com:dbtek/bootstrap-vertical-tabs.git

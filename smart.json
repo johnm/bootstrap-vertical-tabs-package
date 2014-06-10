@@ -1,0 +1,8 @@
+{
+  "name": "bootstrap-vertical-tabs-package",
+  "description": "Vertical tabs component for Bootstrap 3.",
+  "homepage": "http://dbtek.github.io/bootstrap-vertical-tabs/",
+  "author": "İsmail Demirbilek http://ismaildemirbilek.com/",
+  "version": "1.1.0",
+  "git": "https://github.com/johnm/dc.js-package.git"
+}
